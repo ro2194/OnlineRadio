@@ -48,6 +48,7 @@
     <Reference Include="WindowsBase" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IButtonPlugin.cs" />
     <Compile Include="IPlugin.cs" />
     <Compile Include="IVisualPlugin.cs" />
     <Compile Include="PluginManager.cs" />
